@@ -1,7 +1,7 @@
 # Gretchen Ferland
 # trivia game
 
-print("welcome to the states states")
+print("welcome to the states test")
 
 a= int(2)
 b= int(5)
