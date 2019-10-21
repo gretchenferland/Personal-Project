@@ -36,3 +36,7 @@ def main():
     print("The sqaure of the sum of the squares of 3 and 4 is:", getQuadratic(3,4))
 
 main()
+
+print("Now give me all the numbers between 2 and 20 that are divisible by 2 ")
+for x in range(2,20,2):
+    print(x)
